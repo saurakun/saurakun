@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Shivam Kumar 👋</h1>
+<h1 align="center"> Hello I'm Shivam Kumar (aka saura)</h1>
 <p align="center">
   <b>1st Year B.Tech CSE Student · Developer · Builder</b><br>
   <i>building my journey as <b>saura</b> — one idea, one project, one commit at a time.</i>
@@ -12,14 +12,12 @@ I'm a CSE student who enjoys understanding how technology works and learning by 
 
 ## Currently learning
 
-`C++` · `Python` · `DSA` · `Git` · `GitHub`
+`C++` · `Python` · `DSA` · `Git` 
 
-<p align="center">
-  <a href="https://github.com/saurakun?tab=repositories">View my projects →</a>
-</p>
+### What I'm focusing on
+- **C++** — my primary language for DSA and problem solving
+- **Python** — exploring programming and practical development
+- **Web development** — learning by building projects
+- **Open source** — gradually learning how to contribute
 
----
-
-<p align="center">
-  <sub>Learning in public. Building for the long run. 🚀</sub>
-</p>
+My goal is to become a **strong software engineer** who can build real world projects.
