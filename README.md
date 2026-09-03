@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://x.com/saurakun">
-    <img src="https://img.shields.io/badge/X-0d1117?style=flat-square&logo=x&logoColor=white" alt="twitter">
+    <img src="https://img.shields.io/badge/twitter-0d1117?style=flat-square&logo=x&logoColor=white" alt="twitter">
   </a>
   <a href="https://www.linkedin.com/in/saurakun/">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white" alt="linkedIn">
