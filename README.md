@@ -1,7 +1,6 @@
 <h1 align="center"> Hello I'm Shivam Kumar (aka saura)</h1>
 <p align="center">
-  <b>1st Year B.Tech CSE Student · Developer · Builder</b><br>
-  <i>CSE Student | C++ Python, DSA | Building Projects | B.Tech’30.</i>
+  <b>CSE Student | C++ Python, DSA | Building Projects | B.Tech’30</b><br>
 </p>
 
 ---
