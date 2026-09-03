@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/saurakun"><img src="https://img.shields.io/badge/GitHub-saurakun-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://x.com/saurakun"><img src="https://img.shields.io/badge/X-saurakun-0d1117?style=flat-square&logo=github&logoColor=white" alt="X"></a>
   <a href="https://www.linkedin.com/in/saurakun/"><img src="https://img.shields.io/badge/LinkedIn-connect-0d1117?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
